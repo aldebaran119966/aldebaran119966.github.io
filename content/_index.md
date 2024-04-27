@@ -39,20 +39,17 @@ sections:
             brightness: 0.5
   - block: stats
     content:
-      - statistic: Tokenomics
+      title: TOKENOMICS
       items:
-        - statistic: "1M+"
+        - statistic: "60M (80%)"
           description: |
-            Websites built  
-            with Hugo Blox
-        - statistic: "10k+"
+            Public Sale
+        - statistic: "10M (10%)"
           description: |
-            GitHub stars  
-            since 2016
-        - statistic: "3k+"
+            Security
+        - statistic: "5M (5%)"
           description: |
-            Discord community  
-            for support
+            Utility
     design:
       # Section background color (CSS class)
       css_class: "bg-gray-100 dark:bg-gray-900"
