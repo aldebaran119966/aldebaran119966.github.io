@@ -43,16 +43,16 @@ sections:
       items:
         - statistic: "60M"
           description: |
-            (80%)
+            (70%)  
             Public Sale
-        - statistic: "10M (10%)"
+        - statistic: "10k+"
           description: |
-            (10%)
-            Security
-        - statistic: "5M (5%)"
+            GitHub stars  
+            since 2016
+        - statistic: "3k+"
           description: |
-            (5%)
-            Utility
+            Discord community  
+            for support
     design:
       # Section background color (CSS class)
       css_class: "bg-gray-100 dark:bg-gray-900"
