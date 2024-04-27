@@ -39,7 +39,7 @@ sections:
             brightness: 0.5
   - block: stats
     content:
-      title: Tokenomics
+      statistic: Tokenomics
       items:
         - statistic: "1M+"
           description: |
