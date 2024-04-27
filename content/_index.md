@@ -37,6 +37,7 @@ sections:
           filename: backgrounderc.jpeg
           filters:
             brightness: 0.5
+          size: cover
   - block: stats
     content:
       title: TOKENOMICS
