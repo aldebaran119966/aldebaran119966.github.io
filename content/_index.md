@@ -10,20 +10,20 @@ design:
 sections:
   - block: hero
     content:
-      title: Build Your Landing Pages with Hugo Blox
-      text: 🧱 EASY. FREE (OPEN SOURCE). NO-CODE  🧱
+      title: Project Name
+      text: <project_name> is an ERC50 blah blah blah
       primary_action:
-        text: Get Started
-        url: https://hugoblox.com/templates/
+        text: Buy Now
+        url: https://dexscreener.com/
         icon: rocket-launch
-      secondary_action:
-        text: Read the docs
-        url: https://docs.hugoblox.com
-      announcement:
-        text: "Announcing the release of version 1."
-        link:
-          text: "Read more"
-          url: "/blog/"
+      #secondary_action:
+        #text: Read the docs
+        #url: https://docs.hugoblox.com
+      #announcement:
+        #text: "Announcing the release of version 1."
+        #link:
+          #text: "Read more"
+          #url: "/blog/"
     design:
       spacing:
         padding: [0, 0, 0, 0]
