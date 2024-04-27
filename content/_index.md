@@ -61,7 +61,7 @@ sections:
       spacing:
         padding: ["1rem", 0, "1rem", 0]
   - block: features
-    id: features
+    id: howitworks
     content:
       title: HOW IT WORKS
       items:
@@ -84,7 +84,7 @@ sections:
           icon: rectangle-group
           description: Trade on any marketplace that enforces royalties on token extension NFTs.
   - block: cta-image-paragraph
-    id: solutions
+    id: about
     content:
       items:
         - title: <project_name> Partners
@@ -107,7 +107,7 @@ sections:
             - Gate.io
             - Binance
           # Upload image to `assets/media/` and reference the filename here
-          image: coffee.jpg
+          image: Topplayers.png
     design:
       # Section background color (CSS class)
       css_class: "bg-gray-100 dark:bg-gray-900"
