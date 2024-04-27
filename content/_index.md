@@ -88,14 +88,14 @@ sections:
     content:
       items:
         - title: <project_name> Partners
-          text: blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah
+          text: 'We partnered with SolSniper to bring you the #1 SPL404 on Solana. More partnership announcements soon.'
           feature_icon: check
           features:
             - blah blah blah
             - blah blah blah
             - blah blah blah
           # Upload image to `assets/media/` and reference the filename here
-          image: build-website.png
+          image: solsniper.jpeg
           button:
             text: Learn More
             url: 
