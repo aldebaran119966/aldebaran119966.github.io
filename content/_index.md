@@ -10,7 +10,7 @@ design:
 sections:
   - block: hero
     content:
-      title: Project Name
+      title: APA NAMA PROJECTNYA?
       text: <project_name> is an ERC50 blah blah blah
       primary_action:
         text: Buy Now

@@ -7,10 +7,10 @@ main:
     url: /#top
     weight: 10
   - name: How It Works
-    url: /#features
+    url: /#howitworks
     weight: 20
   - name: About
-    url: /#solutions
+    url: /#about
     weight: 30
   #- name: Resources
     #weight: 40
