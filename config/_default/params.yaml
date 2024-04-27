@@ -45,9 +45,9 @@ header:
     show_theme_chooser: true
 
 # Site footer
-footer:
-  copyright:
-    notice: '© {year} My Company'
+#footer:
+  #copyright:
+    #notice: '© {year} My Company'
 
 # Localization
 locale:
