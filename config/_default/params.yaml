@@ -14,7 +14,7 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'A highly-customizable Hugo landing page theme powered by Hugo Blox website builder.'
+    description: '<project_name> is an ERC50 blah blah blah.'
     twitter: 'GetResearchDev'
   analytics:
     google_analytics: ''
