@@ -31,7 +31,7 @@ sections:
       # For full-screen, add `min-h-screen` below
       css_class: "dark"
       background:
-        color: "navy"
+        color: "orange"
         image:
           # Add your image background to `assets/media/`.
           filename: backgrounderc.jpeg
