@@ -41,14 +41,17 @@ sections:
     content:
       title: TOKENOMICS
       items:
-        - statistic: "60M (80%)"
+        - statistic: "60M"
           description: |
+            (80%)
             Public Sale
         - statistic: "10M (10%)"
           description: |
+            (10%)
             Security
         - statistic: "5M (5%)"
           description: |
+            (5%)
             Utility
     design:
       # Section background color (CSS class)
