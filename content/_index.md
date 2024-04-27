@@ -51,12 +51,8 @@ sections:
             Utility
         - statistic: "5M"
           description: |
-            (10%)  
+            (20%)  
             Early Developers
-        - statistic: "5M"
-          description: |
-            (10%)  
-            Research Grants
     design:
       # Section background color (CSS class)
       css_class: "bg-gray-100 dark:bg-gray-900"
