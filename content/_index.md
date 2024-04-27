@@ -25,9 +25,6 @@ sections:
           #text: "Read more"
           #url: "/blog/"
     design:
-      spacing:
-        padding: ['1rem', '0', '1rem', '0']
-        #margin: [0, 0, 300px, 0]
       # For full-screen, add `min-h-screen` below
       css_class: "dark"
       background:
@@ -38,6 +35,9 @@ sections:
           filters:
             brightness: 0.5
           size: contain
+      spacing:
+        padding: ["1rem", 0, "1rem", 0]
+        #margin: [0, 0, 300px, 0]
   - block: stats
     content:
       title: TOKENOMICS
