@@ -95,7 +95,7 @@ sections:
             - blah blah blah
             - blah blah blah
           # Upload image to `assets/media/` and reference the filename here
-          image: solsniper.jpeg
+          image: bald.jpeg
           button:
             text: Learn More
             url: 
