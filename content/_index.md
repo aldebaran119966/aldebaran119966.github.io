@@ -45,14 +45,14 @@ sections:
           description: |
             (70%)  
             Public Sale
-        - statistic: "10k+"
+        - statistic: "10M"
           description: |
-            GitHub stars  
-            since 2016
-        - statistic: "3k+"
+            (10%)  
+            Utility
+        - statistic: "5M"
           description: |
-            Discord community  
-            for support
+            (20%)  
+            Early Developers
     design:
       # Section background color (CSS class)
       css_class: "bg-gray-100 dark:bg-gray-900"
