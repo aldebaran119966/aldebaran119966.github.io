@@ -26,7 +26,7 @@ sections:
           #url: "/blog/"
     design:
       spacing:
-        padding: ['1000px', '0', '0', '0']
+        padding: ['1rem', '0', '1rem', '0']
         #margin: [0, 0, 300px, 0]
       # For full-screen, add `min-h-screen` below
       css_class: "dark"
