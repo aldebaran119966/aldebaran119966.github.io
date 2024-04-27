@@ -87,6 +87,7 @@ sections:
     content:
       items:
         - title: <project_name> Partners
+          text: blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah
           feature_icon: check
           features:
             - blah blah blah
@@ -97,18 +98,15 @@ sections:
           button:
             text: Learn More
             url: 
-        - title: Large Community
-          text: Join our large community on Discord - ask questions and get live responses
+        - title: Cex Listings
+          text: Join our large community and buy at your favorite Cex.
           feature_icon: bolt
           features:
-            - "Dedicated support channel"
-            - "3,000+ users on Discord"
-            - "Share your site and get feedback"
+            - Bybit
+            - Gate.io
+            - Binance
           # Upload image to `assets/media/` and reference the filename here
           image: coffee.jpg
-          button:
-            text: Join Discord
-            url: https://discord.gg/z8wNYzb
     design:
       # Section background color (CSS class)
       css_class: "bg-gray-100 dark:bg-gray-900"
