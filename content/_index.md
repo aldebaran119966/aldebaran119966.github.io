@@ -12,7 +12,7 @@ sections:
     content:
       title: LAZY OLD MAN
       text: $LAZE is an ERC50 blah blah blah
-      button:
+      primary_action:
         text: Dexscreener
         url: https://dexscreener.com/
         icon: gitlab
