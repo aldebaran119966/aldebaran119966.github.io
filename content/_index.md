@@ -8,7 +8,7 @@ design:
   spacing: "6rem"
 
 sections:
-  - block: markdown
+  - block: hero
     content:
       title: LAZY OLD MAN
       text: $LAZE is an ERC50 blah blah blah
@@ -31,7 +31,7 @@ sections:
         color: "orange"
         image:
           # Add your image background to `assets/media/`.
-          filename: backgrounderc.jpeg
+          filename: backgrounderc.svg
           filters:
             brightness: 0.5
           size: contain
