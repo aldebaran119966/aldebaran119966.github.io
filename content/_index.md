@@ -12,19 +12,19 @@ sections:
     content:
       title: LAZY OLD MAN
       text: $LAZE is an ERC50 blah blah blah
-      primary_action:
+      button:
         text: Dexscreener
         url: https://dexscreener.com/
         icon: gitlab
-      primary_action:
+      button:
         text: Twitter
         url: https://dexscreener.com/
         icon: x-twitter
-      primary_action:
+      button:
         text: Telegram
         url: https://dexscreener.com/
         icon: telegram
-      primary_action:
+      button:
         text: Discord
         url: https://dexscreener.com/
         icon: discord
