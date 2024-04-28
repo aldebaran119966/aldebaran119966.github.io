@@ -27,18 +27,17 @@ sections:
           #url: "/blog/"
     design:
       # For full-screen, add `min-h-screen` below
-      css_class: "dark"
-      background:
+      #css_class: "dark"
+      #background:
         #color: "orange"
-        image:
+        #image:
           # Add your image background to `assets/media/`.
-          filename: backgrounderc.jpeg
-          filters:
-            brightness: 0.5
-          size: contain
+          #filename: backgrounderc.jpeg
+          #filters:
+            #brightness: 0.5
+          #size: contain
       spacing:
         padding: ["1rem", 0, "1rem", 0]
-        #margin: [0, 0, 300px, 0]
   - block: stats
     content:
       title: TOKENOMICS
