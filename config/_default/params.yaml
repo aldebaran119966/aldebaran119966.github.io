@@ -41,7 +41,7 @@ header:
       enable: true
       text: "Twitter"
       url: "https://hugoblox.com/templates/"
-      icon: rocket-launcher
+      icon: rocket-launch
     show_search: false
     show_theme_chooser: true
 
