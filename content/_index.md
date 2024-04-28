@@ -13,9 +13,21 @@ sections:
       title: LAZY OLD MAN
       text: $LAZE is an ERC50 blah blah blah
       primary_action:
-        text: Buy Now
+        text: Dexscreener
         url: https://dexscreener.com/
-        icon: rocket-launch
+        icon: gitlab
+      primary_action:
+        text: Twitter
+        url: https://dexscreener.com/
+        icon: x-twitter
+      primary_action:
+        text: Telegram
+        url: https://dexscreener.com/
+        icon: telegram
+      primary_action:
+        text: Discord
+        url: https://dexscreener.com/
+        icon: discord
       #secondary_action:
         #text: Read the docs
         #url: https://docs.hugoblox.com
