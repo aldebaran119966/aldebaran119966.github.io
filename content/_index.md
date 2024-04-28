@@ -34,7 +34,7 @@ sections:
           filename: backgrounderc.svg
           filters:
             brightness: 0.5
-          size: contain
+          #size: contain
       spacing:
         padding: [0, 0, "1rem", 0]
   - block: stats
