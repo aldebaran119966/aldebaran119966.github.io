@@ -8,7 +8,7 @@ design:
   spacing: "6rem"
 
 sections:
-  - block: hero
+  - block: stats
     content:
       title: APA NAMA PROJECTNYA?
       text: <project_name> is an ERC50 blah blah blah
@@ -27,15 +27,15 @@ sections:
           #url: "/blog/"
     design:
       # For full-screen, add `min-h-screen` below
-      #css_class: "dark"
-      #background:
-        #color: "orange"
-        #image:
+      css_class: "dark"
+      background:
+        color: "orange"
+        image:
           # Add your image background to `assets/media/`.
-          #filename: backgrounderc.jpeg
-          #filters:
-            #brightness: 0.5
-          #size: contain
+          filename: backgrounderc.jpeg
+          filters:
+            brightness: 0.5
+          size: contain
       spacing:
         padding: ["1rem", 0, "1rem", 0]
   - block: stats
