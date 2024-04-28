@@ -37,10 +37,11 @@ header:
       text: ""
       # Logo filename in `assets/media/` folder
       filename: "bald.jpeg"
-    #button:
-      #enable: true
-      #text: "Get Started"
-      #url: "https://hugoblox.com/templates/"
+    button:
+      enable: true
+      text: "Twitter"
+      url: "https://hugoblox.com/templates/"
+      icon: brands/x
     show_search: false
     show_theme_chooser: true
 
