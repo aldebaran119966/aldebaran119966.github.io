@@ -37,14 +37,13 @@ header:
       text: ""
       # Logo filename in `assets/media/` folder
       filename: "bald.jpeg"
-    button:
-      enable: true
-      text: "Twitter"
-      url: "https://hugoblox.com/templates/"
-      icon: rocket-launch
+    #button:
+      #enable: true
+      #text: "Twitter"
+      #url: "https://hugoblox.com/templates/"
     show_search: false
     show_theme_chooser: true
-    highlight_active_link: true
+    #highlight_active_link: true
 
 # Site footer
 footer:
