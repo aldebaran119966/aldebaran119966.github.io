@@ -19,8 +19,9 @@ sections:
       #secondary_action:
         #text: Read the docs
         #url: https://docs.hugoblox.com
-      #announcement:
-        #text: "Announcing the release of version 1."
+      announcement:
+        text: "Contact Address"
+        text: "CoRkC3r6MqYuTeMRc7D8JJF7UiUyFWurXGpYy1xQATNq"
         #link:
           #text: "Read more"
           #url: "/blog/"
@@ -28,7 +29,7 @@ sections:
       # For full-screen, add `min-h-screen` below
       css_class: "dark"
       background:
-        color: "orange"
+        #color: "orange"
         image:
           # Add your image background to `assets/media/`.
           filename: backgrounderc.jpeg
