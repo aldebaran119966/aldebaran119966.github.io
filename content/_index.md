@@ -16,18 +16,6 @@ sections:
         text: Dexscreener
         url: https://dexscreener.com/
         icon: gitlab
-      button:
-        text: Twitter
-        url: https://dexscreener.com/
-        icon: x-twitter
-      button:
-        text: Telegram
-        url: https://dexscreener.com/
-        icon: telegram
-      button:
-        text: Discord
-        url: https://dexscreener.com/
-        icon: discord
       #secondary_action:
         #text: Read the docs
         #url: https://docs.hugoblox.com
