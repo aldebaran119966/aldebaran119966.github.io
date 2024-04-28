@@ -8,10 +8,10 @@ design:
   spacing: "6rem"
 
 sections:
-  - block: hero
+  - block: markdown
     content:
-      title: APA NAMA PROJECTNYA?
-      text: <project_name> is an ERC50 blah blah blah
+      title: LAZY OLD MAN
+      text: $LAZE is an ERC50 blah blah blah
       primary_action:
         text: Buy Now
         url: https://dexscreener.com/
