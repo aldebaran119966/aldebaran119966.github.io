@@ -8,7 +8,7 @@ design:
   spacing: "6rem"
 
 sections:
-  - block:
+  - block: features
     content:
       title: APA NAMA PROJECTNYA?
       text: <project_name> is an ERC50 blah blah blah
