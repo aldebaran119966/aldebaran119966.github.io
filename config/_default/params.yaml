@@ -6,7 +6,7 @@
 # Appearance
 appearance:
   mode: light
-  color: indigo
+  color: zinc
 
 # SEO
 marketing:
@@ -14,8 +14,8 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: '<project_name> is an ERC50 blah blah blah.'
-    twitter: 'GetResearchDev'
+    description: '$LAZE is an ERC50 blah blah blah.'
+    twitter: ''
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -45,9 +45,9 @@ header:
     show_theme_chooser: true
 
 # Site footer
-#footer:
-  #copyright:
-    #notice: '© {year} My Company'
+footer:
+  copyright:
+    notice: '© {year} LAZY OLD MAN'
 
 # Localization
 locale:
