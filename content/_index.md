@@ -8,7 +8,7 @@ design:
   spacing: "6rem"
 
 sections:
-  - block: features
+  - block: stats
     content:
       title: APA NAMA PROJECTNYA?
       text: <project_name> is an ERC50 blah blah blah
@@ -20,7 +20,6 @@ sections:
         #text: Read the docs
         #url: https://docs.hugoblox.com
       announcement:
-        text: "Contact Address"
         text: "CoRkC3r6MqYuTeMRc7D8JJF7UiUyFWurXGpYy1xQATNq"
         #link:
           #text: "Read more"
@@ -37,7 +36,7 @@ sections:
             brightness: 0.5
           size: contain
       spacing:
-        padding: ["1rem", 0, "1rem", 0]
+        padding: [0, 0, "1rem", 0]
   - block: stats
     content:
       title: TOKENOMICS
