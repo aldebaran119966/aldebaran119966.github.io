@@ -11,9 +11,9 @@ sections:
   - block: hero
     content:
       title: LAZY OLD MAN
-      text: "Just an old man $LAZE and chill.....
-      nothing special
-      Launch with ERC50 No rug, No team, just $LAZE"
+      - text: Just an old man $LAZE and chill..... 
+      - text: nothing special
+      - text: Launch with ERC50 No rug, No team, just $LAZE
       primary_action:
         text: Twitter
         url: https://twitter.com/LazeonBase
@@ -101,15 +101,15 @@ sections:
           button:
             text: Learn More
             url: 
-        - title: Cex Listings
-          text: Join our large community and buy at your favorite Cex.
-          feature_icon: bolt
-          features:
-            - Bybit
-            - Gate.io
-            - Binance
+        #- title: Cex Listings
+          #text: Join our large community and buy at your favorite Cex.
+          #feature_icon: bolt
+          #features:
+            #- Bybit
+            #- Gate.io
+            #- Binance
           # Upload image to `assets/media/` and reference the filename here
-          image: Topplayers.png
+          #image: Topplayers.png
     design:
       # Section background color (CSS class)
       css_class: "bg-gray-100 dark:bg-gray-900"
