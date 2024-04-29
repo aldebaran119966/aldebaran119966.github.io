@@ -15,7 +15,7 @@ sections:
       primary_action:
         text: Twitter
         url: https://twitter.com/LazeonBase
-        icon: custom/x-twitter
+        icon: custom/square-x-twitter
       #secondary_action:
         #text: Read the docs
         #url: https://docs.hugoblox.com
