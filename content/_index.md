@@ -13,9 +13,9 @@ sections:
       title: LAZY OLD MAN
       text: $LAZE is an ERC50 blah blah blah
       primary_action:
-        - text: Dexscreener
-          url: https://dexscreener.com/
-          icon: custom/gitlab
+        text: Dexscreener
+        url: https://dexscreener.com/
+        icon: custom/gitlab
       #secondary_action:
         #text: Read the docs
         #url: https://docs.hugoblox.com
@@ -86,13 +86,13 @@ sections:
     id: about
     content:
       items:
-        - title: <project_name> Partners
-          text: 'We partnered with SolSniper to bring you the #1 SPL404 on Solana. More partnership announcements soon.'
+        - title: By being $LAZE, we are rich 🤑
+          #text: 'We partnered with SolSniper to bring you the #1 SPL404 on Solana. More partnership announcements soon.'
           feature_icon: check
           features:
-            - blah blah blah
-            - blah blah blah
-            - blah blah blah
+            - Presale
+            - Launch Dexscreen
+            - Be Rich!
           # Upload image to `assets/media/` and reference the filename here
           image: bald.jpeg
           button:
