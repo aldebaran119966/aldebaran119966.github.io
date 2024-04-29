@@ -36,8 +36,8 @@ sections:
           filters:
             brightness: 0.5
           #size: contain
-      spacing:
-        padding: [0, 0, "1rem", 0]
+      #spacing:
+        #padding: [0, 0, "1rem", 0]
   - block: stats
     content:
       title: TOKENOMICS
