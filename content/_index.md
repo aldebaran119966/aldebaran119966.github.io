@@ -16,9 +16,10 @@ sections:
         text: Twitter
         url: https://twitter.com/LazeonBase
         icon: custom/square-x-twitter
-      #secondary_action:
-        #text: Read the docs
-        #url: https://docs.hugoblox.com
+      secondary_action:
+        text: Telegram
+        url: https://t.me/LazeonBase
+        icon: custom/telegram
       announcement:
         text: "CoRkC3r6MqYuTeMRc7D8JJF7UiUyFWurXGpYy1xQATNq"
         #link:
