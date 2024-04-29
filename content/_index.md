@@ -20,8 +20,8 @@ sections:
         text: Telegram
         url: https://t.me/LazeonBase
         icon: custom/telegram
-      announcement:
-        text: "CoRkC3r6MqYuTeMRc7D8JJF7UiUyFWurXGpYy1xQATNq"
+      #announcement:
+        #text: "CoRkC3r6MqYuTeMRc7D8JJF7UiUyFWurXGpYy1xQATNq"
         #link:
           #text: "Read more"
           #url: "/blog/"
