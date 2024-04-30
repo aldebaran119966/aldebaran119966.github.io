@@ -11,7 +11,7 @@ sections:
   - block: hero
     content:
       title: LAZY OLD MAN
-      text: Just an old man $LAZE and chill..... nothing special Launch with ERC50 No rug, No team, just $LAZE
+      text: Just an old man $LAZe and chill..... nothing special Launch with ERC50 No rug, No team, just $LAZe
       primary_action:
         text: Twitter
         url: https://twitter.com/LazeonBase
@@ -42,18 +42,15 @@ sections:
     content:
       title: TOKENOMICS
       items:
-        - statistic: "60M"
+        - statistic: "50%"
+          description: |  
+            Presale
+        - statistic: "50%"
           description: |
-            (70%)  
-            Public Sale
-        - statistic: "10M"
+            Liquidity Pool
+        - statistic: "3B"
           description: |
-            (10%)  
-            Utility
-        - statistic: "5M"
-          description: |
-            (20%)  
-            Early Developers
+            Max. Supply
     design:
       # Section background color (CSS class)
       css_class: "bg-gray-100 dark:bg-gray-900"
@@ -87,7 +84,7 @@ sections:
     id: about
     content:
       items:
-        - title: By being $LAZE, we are rich 🤑
+        - title: By being $LAZe, we are rich 🤑
           #text: 'We partnered with SolSniper to bring you the #1 SPL404 on Solana. More partnership announcements soon.'
           feature_icon: check
           features:
