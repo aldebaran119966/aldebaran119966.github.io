@@ -114,6 +114,10 @@ sections:
     design:
       # Section background color (CSS class)
       css_class: "bg-gray-100 dark:bg-gray-900"
+  - block: 'github.aldebaran119966.largeimage'
+    content:
+      title: My title
+      text: Add any **markdown** formatted content here - text, im
   #- block: testimonials
     #content:
       #title: ""
