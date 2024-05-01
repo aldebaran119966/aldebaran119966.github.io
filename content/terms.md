@@ -47,7 +47,7 @@ These Terms shall be governed by and construed in accordance with the laws of [I
 $LAZe Project reserves the right to modify or revise these Terms at any time. Any changes will be effective immediately upon posting the revised Terms on the Service. By continuing to access or use the Service after any changes, you agree to be bound by the revised Terms.
 
 ## 11. Contact Us:
-If you have any questions or concerns about these Terms, please contact us at {{< cta cta_text="Do something" cta_link="/" cta_new_tab="false" >}} or {{< cta cta_text="Do something" cta_link="/" cta_new_tab="false" >}}.
+If you have any questions or concerns about these Terms, please contact us at [Twitter](https://twitter.com/LazeonBase) or [Telegram](https://t.me/LazeonBase).
 
 {{% callout note %}}
 By using the $LAZe Project Service, you acknowledge that you have read, understood, and agree to be bound by these Terms.
