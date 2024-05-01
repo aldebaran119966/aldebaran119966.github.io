@@ -60,7 +60,7 @@ sections:
   - block: markdown
     id: section-1
     content:
-      title: HOW IT WORKS
+      title:
       #subtitle: A subtitle
       text: 
     design:
@@ -77,7 +77,7 @@ sections:
           # Image focal point. Options include `left`, `center` (default), or `right`.
           position: center
           # Use a fun parallax-like fixed background effect on desktop? true/false
-          parallax: true
+          parallax: false
           # Text color (true=light, false=dark, or remove for the dynamic theme color).
           text_color_light: true
   #- block: features
