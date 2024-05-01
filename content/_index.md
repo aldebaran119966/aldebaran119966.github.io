@@ -57,12 +57,15 @@ sections:
       # Reduce spacing
       spacing:
         padding: ["1rem", 0, "1rem", 0]
-  - block: 
+  - block: markdown
     id: section-1
     content:
       title: HOW IT WORKS
       #subtitle: A subtitle
       text: <img src="https://i.imghippo.com/files/GcYO11714580288.jpg" alt="" border="0" width="1200" height="720">
+    design:
+      image:
+        filename: backgrounderc.svg
   #- block: features
     #id: howitworks
     #content:
