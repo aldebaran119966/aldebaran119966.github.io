@@ -58,30 +58,11 @@ sections:
       spacing:
         padding: ["1rem", 0, "1rem", 0]
   - block: markdown
-    id: section-1
+    id: howitworks
     content:
       title:
       #subtitle: A subtitle
-      text: 
-    design:
-      background:
-        image:
-          # Name of image in `assets/media/`.
-          filename: howdoesitwork.svg
-          # Apply image filters?
-          filters:
-            # Darken the image? Range 0-1 where 1 is transparent and 0 is opaque.
-            brightness: 0
-          #  Image fit. Options are `cover` (default), `contain`, or `actual` size.
-          size: actual
-          # Image focal point. Options include `left`, `center` (default), or `right`.
-          position: center
-          # Use a fun parallax-like fixed background effect on desktop? true/false
-          parallax: true
-          # Text color (true=light, false=dark, or remove for the dynamic theme color).
-          text_color_light: true
-        spacing:
-          padding: ["10rem", 0, "10rem", 0]
+      text: <img src="https://i.imghippo.com/files/GcYO11714580288.jpg" alt="" border="0">
   #- block: features
     #id: howitworks
     #content:
