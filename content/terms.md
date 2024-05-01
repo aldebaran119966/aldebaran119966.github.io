@@ -41,7 +41,7 @@ The Service is provided on an "as is" and "as available" basis, without any warr
 In no event shall $LAZe Project be liable for any indirect, incidental, special, consequential, or punitive damages arising out of or relating to your use of the Service, whether based on warranty, contract, tort (including negligence), or any other legal theory, even if $LAZe Project has been advised of the possibility of such damages.
 
 ## 9. Governing Law:
-These Terms shall be governed by and construed in accordance with the laws of [Insert Jurisdiction], without regard to its conflict of law provisions.
+These Terms shall be governed by and construed in accordance with the laws of USA, without regard to its conflict of law provisions.
 
 ## 10. Changes to Terms:
 $LAZe Project reserves the right to modify or revise these Terms at any time. Any changes will be effective immediately upon posting the revised Terms on the Service. By continuing to access or use the Service after any changes, you agree to be bound by the revised Terms.
