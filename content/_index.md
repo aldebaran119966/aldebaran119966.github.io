@@ -62,7 +62,7 @@ sections:
     content:
       title: HOW IT WORKS
       #subtitle: A subtitle
-      text: <img src="../media/howdoesitwork.svg" alt="How Does It Work">
+      text: <img src="../media/backgrounderc.svg" alt="How Does It Work">
   #- block: features
     #id: howitworks
     #content:
