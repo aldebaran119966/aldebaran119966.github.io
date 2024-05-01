@@ -58,39 +58,9 @@ sections:
       spacing:
         padding: ["1rem", 0, "1rem", 0]
   - block: hero
-    content:
-      title: LAZY OLD MAN
-      text: Just an old man $LAZe and chill..... nothing special Launch with ERC50 No rug, No team, just $LAZe
-      primary_action:
-        text: Twitter
-        url: https://twitter.com/LazeonBase
-        icon: custom/square-x-twitter
-      secondary_action:
-        text: Telegram
-        url: https://t.me/LazeonBase
-        icon: custom/telegram
-      announcement:
-        text: "XXXXXXXXXXXXXXXXXXXXX"
-        #link:
-          #text: "Read more"
-          #url: "/blog/"
-    design:
-      # For full-screen, add `min-h-screen` below
-      css_class: "dark"
-      background:
-        color: "orange"
-        image:
-          # Add your image background to `assets/media/`.
-          filename: backgrounderc.svg
-          filters:
-            brightness: 0.5
-          #size: contain
-      spacing:
-        padding: [0, 0, "1rem", 0]
-  #- block: hero
     #id: howitworks
-    #content:
-      #title: HOW IT WORKS
+    content:
+      title: HOW IT WORKS
       #items:
         #- name: 10,000,000 $ERC50
           #icon: magnifying-glass
@@ -110,18 +80,18 @@ sections:
         #- name: Trade
           #icon: rectangle-group
           #description: Trade on any marketplace that enforces royalties on token extension NFTs.
-      #design:
+      design:
       # For full-screen, add `min-h-screen` below
-      #css_class: "dark"
-      #background:
-        #color: "orange"
-        #image:
+      css_class: "dark"
+      background:
+        color: "orange"
+        image:
           # Add your image background to `assets/media/`.
-          #filename: backgrounderc.svg
-          #filters:
-            #brightness: 0.5
-      #spacing:
-        #padding: [0, 0, "1rem", 0]
+          filename: backgrounderc.svg
+          filters:
+            brightness: 0.5
+      spacing:
+        padding: [0, 0, "1rem", 0]
   - block: cta-image-paragraph
     id: about
     content:
