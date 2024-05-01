@@ -57,7 +57,7 @@ sections:
       # Reduce spacing
       spacing:
         padding: ["1rem", 0, "1rem", 0]
-  - block: markdown
+  - block: 
     id: section-1
     content:
       title: HOW IT WORKS
