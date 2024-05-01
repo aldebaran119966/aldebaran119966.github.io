@@ -62,7 +62,7 @@ sections:
     content:
       title: HOW IT WORKS
       #subtitle: A subtitle
-      text: <img src="https://i.imghippo.com/files/GcYO11714580288.jpg" alt="" border="0" width="1200" height="720">
+      text: 
     design:
       background:
         image:
@@ -73,7 +73,7 @@ sections:
             # Darken the image? Range 0-1 where 1 is transparent and 0 is opaque.
             brightness: 0
           #  Image fit. Options are `cover` (default), `contain`, or `actual` size.
-          size: cover
+          size: actual
           # Image focal point. Options include `left`, `center` (default), or `right`.
           position: center
           # Use a fun parallax-like fixed background effect on desktop? true/false
