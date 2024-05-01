@@ -114,7 +114,7 @@ sections:
     design:
       # Section background color (CSS class)
       css_class: "bg-gray-100 dark:bg-gray-900"
-  - block: github.aldebaran119966.insertimage
+  - block: github.aldebaran119966.insertimag
     content:
       title: My title
       text: <img src="https://i.imghippo.com/files/GcYO11714580288.jpg" alt="" border="0">
