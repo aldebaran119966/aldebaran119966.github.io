@@ -60,7 +60,7 @@ sections:
   - block: markdown
     id: howitworks
     content:
-      title:
+      #title:
       #subtitle: A subtitle
       text: <img src="https://i.imghippo.com/files/GcYO11714580288.jpg" alt="" border="0">
   #- block: features
