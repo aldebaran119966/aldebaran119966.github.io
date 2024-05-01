@@ -57,29 +57,29 @@ sections:
       # Reduce spacing
       spacing:
         padding: ["1rem", 0, "1rem", 0]
-  - block: features
+  - block: hero
     id: howitworks
     content:
       title: HOW IT WORKS
-      items:
-        - name: 10,000,000 $ERC50
-          icon: magnifying-glass
-          description: Can be swapped for a Common NFT.
-        - name: 15,000,000 $ERC50
-          icon: bolt
-          description: Can be swapped for a Rare NFT.
-        - name: 20,000,000 $ERC50
-          icon: sparkles
-          description: Can be swapped for a Mythic NFT.
-        - name: 50,000,000 $ERC50
-          icon: code-bracket
-          description: Can be swapped for a 1/1 NFT.
-        - name: Royalty fee
-          icon: star
-          description: A 3.33% Royalty fee  for NFT Marketplaces.
-        - name: Trade
-          icon: rectangle-group
-          description: Trade on any marketplace that enforces royalties on token extension NFTs.
+      #items:
+        #- name: 10,000,000 $ERC50
+          #icon: magnifying-glass
+          #description: Can be swapped for a Common NFT.
+        #- name: 15,000,000 $ERC50
+          #icon: bolt
+          #description: Can be swapped for a Rare NFT.
+        #- name: 20,000,000 $ERC50
+          #icon: sparkles
+          #description: Can be swapped for a Mythic NFT.
+        #- name: 50,000,000 $ERC50
+          #icon: code-bracket
+          #description: Can be swapped for a 1/1 NFT.
+        #- name: Royalty fee
+          #icon: star
+          #description: A 3.33% Royalty fee  for NFT Marketplaces.
+        #- name: Trade
+          #icon: rectangle-group
+          #description: Trade on any marketplace that enforces royalties on token extension NFTs.
       design:
       # For full-screen, add `min-h-screen` below
       css_class: "dark"
