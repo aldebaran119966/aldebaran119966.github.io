@@ -117,7 +117,7 @@ sections:
   - block: github.aldebaran119966.insertimage
     content:
       title: My title
-      text: Add any **markdown** formatted content here - text, im
+      text: <img src="https://i.imghippo.com/files/GcYO11714580288.jpg" alt="" border="0">
   #- block: testimonials
     #content:
       #title: ""
