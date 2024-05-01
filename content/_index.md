@@ -80,7 +80,7 @@ sections:
         #- name: Trade
           #icon: rectangle-group
           #description: Trade on any marketplace that enforces royalties on token extension NFTs.
-      design:
+    design:
       # For full-screen, add `min-h-screen` below
       css_class: "dark"
       background:
