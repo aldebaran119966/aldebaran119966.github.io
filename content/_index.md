@@ -57,10 +57,16 @@ sections:
       # Reduce spacing
       spacing:
         padding: ["1rem", 0, "1rem", 0]
-  - block: hero
-    #id: howitworks
+  - block: markdown
+    id: section-1
     content:
-      title: HOW IT WORKS
+      title: Section 1
+      subtitle: A subtitle
+      text: Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML code!
+  #- block: features
+    #id: howitworks
+    #content:
+      #title: HOW IT WORKS
       #items:
         #- name: 10,000,000 $ERC50
           #icon: magnifying-glass
@@ -80,18 +86,6 @@ sections:
         #- name: Trade
           #icon: rectangle-group
           #description: Trade on any marketplace that enforces royalties on token extension NFTs.
-    design:
-      # For full-screen, add `min-h-screen` below
-      css_class: "dark"
-      background:
-        color: "orange"
-        image:
-          # Add your image background to `assets/media/`.
-          filename: backgrounderc.svg
-          filters:
-            brightness: 0.5
-      spacing:
-        padding: [0, 0, "1rem", 0]
   - block: cta-image-paragraph
     id: about
     content:
