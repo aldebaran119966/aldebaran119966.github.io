@@ -60,9 +60,9 @@ sections:
   - block: markdown
     id: section-1
     content:
-      title: Section 1
-      subtitle: A subtitle
-      text: <img src="../media/backgrounderc.svg" alt="Italian Trulli">
+      title: HOW IT WORKS
+      #subtitle: A subtitle
+      text: <img src="../media/howdoesitwork.svg" alt="How Does It Work">
   #- block: features
     #id: howitworks
     #content:
