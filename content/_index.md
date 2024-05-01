@@ -63,6 +63,9 @@ sections:
       #title:
       #subtitle: A subtitle
       text: <img src="https://i.imghippo.com/files/GcYO11714580288.jpg" alt="" border="0">
+    design:
+      spacing:
+        padding: [0, 0, "1rem", 0]
   #- block: features
     #id: howitworks
     #content:
