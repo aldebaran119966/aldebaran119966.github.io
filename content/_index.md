@@ -62,7 +62,7 @@ sections:
     content:
       title: Section 1
       subtitle: A subtitle
-      text: <img src="../assets/media/backgrounderc.jpeg" alt="Italian Trulli">
+      text: <img src="backgrounderc.jpeg" alt="Italian Trulli">
   #- block: features
     #id: howitworks
     #content:
