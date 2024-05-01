@@ -32,7 +32,7 @@ sections:
         color: "orange"
         image:
           # Add your image background to `assets/media/`.
-          filename: howdoesitwork.svg
+          filename: backgrounderc.svg
           filters:
             brightness: 0.5
           #size: contain
