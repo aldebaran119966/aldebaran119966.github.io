@@ -62,7 +62,7 @@ sections:
     content:
       title: Section 1
       subtitle: A subtitle
-      text: {{< figure src="../assets/media/backgrounderc.jpeg" caption="A caption" numbered="true" >}}
+      text: <img src="../assets/media/backgrounderc.jpeg" alt="Italian Trulli">
   #- block: features
     #id: howitworks
     #content:
