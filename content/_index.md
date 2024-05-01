@@ -62,7 +62,7 @@ sections:
     content:
       title: HOW IT WORKS
       #subtitle: A subtitle
-      text: <img src="../media/howdoesitwork_hu784cdfb2866aaf90d888bdd6356de525_93593_800x0_resize_q95_h2_lanczos.webp" alt="How Does It Work">
+      text: <img src="../media/howdoesitwork.svg" alt="How Does It Work" width="1500" height="1333">
   #- block: features
     #id: howitworks
     #content:
@@ -102,15 +102,15 @@ sections:
           button:
             text: Learn More
             url: 
-        - title: Cex Listings
-          text: Join our large community and buy at your favorite Cex.
-          feature_icon: bolt
-          features:
-            - Bybit
-            - Gate.io
-            - Binance
+        #- title: Cex Listings
+          #text: Join our large community and buy at your favorite Cex.
+          #feature_icon: bolt
+          #features:
+            #- Bybit
+            #- Gate.io
+            #- Binance
           # Upload image to `assets/media/` and reference the filename here
-          image: howdoesitwork.jpeg
+          #image: howdoesitwork.jpeg
     design:
       # Section background color (CSS class)
       css_class: "bg-gray-100 dark:bg-gray-900"
