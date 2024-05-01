@@ -62,7 +62,7 @@ sections:
     content:
       title: Section 1
       subtitle: A subtitle
-      text: ![screen reader text](../assets/media/backgrounderc.jpeg "caption")
+      text: {{< figure src="../assets/media/backgrounderc.jpeg" caption="A caption" numbered="true" >}}
   #- block: features
     #id: howitworks
     #content:
