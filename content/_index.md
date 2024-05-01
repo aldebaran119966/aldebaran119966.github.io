@@ -62,7 +62,7 @@ sections:
     content:
       title: HOW IT WORKS
       #subtitle: A subtitle
-      text: <img src="../media/bald_hu1c2bcd6de41f58d3583bb6271074ccbb_176941_800x0_resize_q95_h2_lanczos.webp" alt="How Does It Work">
+      text: <img src="../media/howdoesitwork_hu784cdfb2866aaf90d888bdd6356de525_93593_800x0_resize_q95_h2_lanczos.webp" alt="How Does It Work">
   #- block: features
     #id: howitworks
     #content:
