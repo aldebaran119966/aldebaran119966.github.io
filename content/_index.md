@@ -80,6 +80,8 @@ sections:
           parallax: true
           # Text color (true=light, false=dark, or remove for the dynamic theme color).
           text_color_light: true
+        spacing:
+          padding: ["10rem", 0, "10rem", 0]
   #- block: features
     #id: howitworks
     #content:
