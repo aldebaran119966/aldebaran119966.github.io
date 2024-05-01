@@ -82,14 +82,16 @@ sections:
           #description: Trade on any marketplace that enforces royalties on token extension NFTs.
       design:
       # For full-screen, add `min-h-screen` below
-      #css_class: "dark"
+      css_class: "dark"
       background:
-        #color: "orange"
+        color: "orange"
         image:
           # Add your image background to `assets/media/`.
           filename: backgrounderc.svg
           filters:
             brightness: 0.5
+      spacing:
+        padding: [0, 0, "1rem", 0]
   - block: cta-image-paragraph
     id: about
     content:
