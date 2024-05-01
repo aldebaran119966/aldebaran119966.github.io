@@ -4,7 +4,9 @@ date: 2023-12-01
 share: false
 ---
 
-# Navigating the Nexus of Privacy and Cryptocurrency: A Comprehensive Guide
+# Navigating the Nexus of Privacy in Cryptocurrency using ERC50
+
+![screen reader text](https://www.bitstamp.net/learn/bts-img/2023/05/Privacy-Coins-and-Anonymity-in-Cryptocurrency.png "caption")
 
 ## The Importance of Privacy in Cryptocurrency
 
