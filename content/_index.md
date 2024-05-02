@@ -11,12 +11,11 @@ sections:
   - block: hero
     content:
       title: LAZY OLD MAN
-      text: Just an old man $LAZE and chill..... nothing special
       text: | 
-        Launch with ERC50, 
-        No rug,
+        Just an old man $LAZE and chill..... nothing
+        special
         
-        No team, just $LAZE
+        Launch with ERC50, No rug, No team, just $LAZE
       primary_action:
         text: Twitter
         url: https://twitter.com/LazeonBase
