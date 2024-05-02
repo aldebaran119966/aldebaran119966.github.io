@@ -11,8 +11,9 @@ sections:
   - block: hero
     content:
       title: LAZY OLD MAN
-      text: |2
+      text: >
         Just an old man $LAZE and chill..... nothing special
+        
         Launch with ERC50, No rug, No team, just $LAZE
       primary_action:
         text: Twitter
