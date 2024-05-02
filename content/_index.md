@@ -11,7 +11,7 @@ sections:
   - block: hero
     content:
       title: LAZY OLD MAN
-      text: | 
+      text: 
         Just an old man $LAZE and chill..... nothing
         special
         
