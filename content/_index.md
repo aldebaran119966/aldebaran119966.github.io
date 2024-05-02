@@ -1,5 +1,5 @@
 ---
-title: 'LAZe'
+title: 'LAZE'
 date: 2023-10-24
 type: landing
 
@@ -11,7 +11,7 @@ sections:
   - block: hero
     content:
       title: LAZY OLD MAN
-      text: Just an old man $LAZe and chill..... nothing special Launch with ERC50 No rug, No team, just $LAZe
+      text: Just an old man $LAZE and chill..... nothing special                             Launch with ERC50, No rug, No team, just $LAZE
       primary_action:
         text: Twitter
         url: https://twitter.com/LazeonBase
@@ -93,7 +93,7 @@ sections:
     id: about
     content:
       items:
-        - title: By being $LAZe, we are rich 🤑
+        - title: By being $LAZE, we are rich 🤑
           #text: 'We partnered with SolSniper to bring you the #1 SPL404 on Solana. More partnership announcements soon.'
           feature_icon: check
           features:
