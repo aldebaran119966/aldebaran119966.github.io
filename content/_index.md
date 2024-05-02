@@ -62,7 +62,7 @@ sections:
     content:
       #title:
       #subtitle: A subtitle
-      text: <img src="https://i.imghippo.com/files/GcYO11714580288.jpg" alt="" border="0">
+      text: <img src="https://i.imghippo.com/files/9Rd981714643353.jpg" alt="" border="0">
     design:
       spacing:
         padding: [0, 0, "1rem", 0]
